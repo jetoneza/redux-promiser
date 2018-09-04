@@ -1,0 +1,24 @@
+{
+  "name": "redux-simple-promise",
+  "version": "0.1.0",
+  "description": "A simple redux middleware for handling promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jetoneza/redux-simple-promise.git"
+  },
+  "keywords": [
+    "redux",
+    "middleware",
+    "promise"
+  ],
+  "author": "Jethro Ordaneza <jet.oneza@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jetoneza/redux-simple-promise/issues"
+  },
+  "homepage": "https://github.com/jetoneza/redux-simple-promise#readme"
+}
