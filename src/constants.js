@@ -1,3 +1,3 @@
 module.exports = {
-  TYPE: 'redux-simple-promise/HANDLE_SIMPLE_PROMISE',
+  TYPE: '@redux-promiser/HANDLE_SIMPLE_PROMISE',
 };
