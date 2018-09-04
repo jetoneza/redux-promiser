@@ -1,6 +1,6 @@
 {
   "name": "redux-promiser",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A simple redux middleware for handling promises",
   "main": "lib/index.js",
   "scripts": {
