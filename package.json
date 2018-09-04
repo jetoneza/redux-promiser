@@ -19,7 +19,7 @@
     "promise"
   ],
   "author": "Jethro Ordaneza <jet.oneza@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/jetoneza/redux-simple-promise/issues"
   },
