@@ -1,5 +1,5 @@
 {
-  "name": "redux-simple-promise",
+  "name": "redux-promiser",
   "version": "0.1.0",
   "description": "A simple redux middleware for handling promises",
   "main": "lib/index.js",
