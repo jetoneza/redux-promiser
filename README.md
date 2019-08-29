@@ -17,7 +17,7 @@ import rootReducer from './reducer';
 
 const store = createStore(
   rootReducer,
-  applyMiddleware(thunk, reduxPackMiddleware),
+  applyMiddleware(thunk, reduxPromiserMiddleware),
 );
 ```
 A simple example:
